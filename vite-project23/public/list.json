@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amer",
+    "price": 0,
+    "category": "Free",
+    "image":
+      "https://img.freepik.com/free-photo/smiling-young-woman-holding-retro-camera_329181-142.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Lorem ipsum dolor sit amer pupsum",
+    "price": 50,
+    "category": "Entertainment",
+    "image":
+      "https://img.freepik.com/free-photo/smiling-young-woman-holding-retro-camera_329181-142.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": 3,
+    "name": "Drama Book",
+    "title": "Lorem ipsum dolor sit amer pupsum",
+    "price": 90,
+    "category": "Drama",
+    "image":
+      "https://img.freepik.com/free-photo/smiling-young-woman-holding-retro-camera_329181-142.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": 4,
+    "name": "Poem Book",
+    "title": "Lorem ipsum dolor sit amer pupsum",
+    "price": 0,
+    "category": "Free",
+    "image":
+      "https://img.freepik.com/free-photo/smiling-young-woman-holding-retro-camera_329181-142.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": 5,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amer pupsum",
+    "price": 0,
+    "category": "Free",
+    "image":
+      "https://img.freepik.com/free-photo/smiling-young-woman-holding-retro-camera_329181-142.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": 6,
+    "name": "Food Book",
+    "title": "Lorem ipsum dolor sit amer pupsum",
+    "price": 0,
+    "category": "Free",
+    "image":
+      "https://t3.ftcdn.net/jpg/08/09/06/34/240_F_809063442_pAYxfVXJIS9WEsslvUNl4r7sORM5ELSE.jpg"
+  }
+]
